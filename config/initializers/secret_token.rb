@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Teebou::Application.config.secret_key_base = '74be4cd6d9725a2987003fa80e92bb2b88fab46d59f02260b8a76fdffb977978c0f2ae8b0c8c9a68aad2824fd93cbd49efb48e031a635ac395efb31e563fae59'
+Teebou::Application.config.secret_key_base = '6ad13134e9cfeac83e32c70ed77b4b4532d2a3f91a767ed481e52b7f4b5010faa6e3c48745a756da06e870e85de28030247d4eff325e43ffd4229216d4a2b733'
